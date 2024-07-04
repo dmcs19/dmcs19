@@ -9,5 +9,5 @@ Adobe Photoshop
 I am looking for challenges and opportunities that make me feel like I am continuously learning.
 
 ### 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/diogo-saraiva-17154714b/)
+[LinkedIn](https://www.linkedin.com/in/diogo-saraiva-17154714b/) | 
 [Email](mailto:dmcs1906@gmail.com)
