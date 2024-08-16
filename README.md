@@ -1,5 +1,5 @@
 ### 🚀 About Me
-Hello, I'm Diogo. I'm just finishing my Bachelor's in Informatics and Multimedia Engineering. I consider myself a social person who enjoys a good joke, but I also take my professional responsibilities seriously. I'm committed, goal-oriented, and always eager to learn and grow.
+...
 
 ### 💻 Skills:
 - Python, Java, JavaScript, HTML, CSS, C++, Kotlin
