@@ -2,7 +2,7 @@
 Hi, I'm Diogo, a recent Informatics and Multimedia Engineering graduate and I'm passionate about software development.
 
 ### 💻 Skills:
-- Python, Java, JavaScript, HTML, CSS, C++, C#, PHP, Kotlin
+- Python, Java, JavaScript, HTML, CSS, C++, C#, React, PHP, Kotlin
 - Adobe Photoshop
 
 ### 💼 Professional Opportunities
